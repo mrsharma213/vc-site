@@ -1,0 +1,1154 @@
+{
+  "lastSynced": "2026-04-08T04:39:00Z",
+  "companies": {
+    "Truemed": {
+      "sector": "Health & Wellness / Payments",
+      "updates": [
+        {
+          "date": "2026-04-03",
+          "from": "Justin Mares <justin@truemed.com>",
+          "subject": "Truemed April investor update",
+          "summary": [
+            "Signed equity partnership with Shopify — exclusive HSA/FSA payment processor for Shop Pay",
+            "Same warrant structure as Shopify-Affirm deal, enables subscription payment processing",
+            "Signed 36 new merchants in March including Nutrafol and No Bull",
+            "Issued 1.5 millionth LMN — last 500K took under 4 months",
+            "Q1 at 101% of plan despite March being ~5% below"
+          ],
+          "metrics": {
+            "Monthly Revenue": "$3.30M (-2% to plan)",
+            "TTM Revenue": "$29M (185% YoY)",
+            "Cash Balance": "$38.6M",
+            "Monthly Burn": "-$300K",
+            "Runway": "10+ years"
+          }
+        },
+        {
+          "date": "2026-03-05",
+          "from": "Justin Mares <justin@truemed.com>",
+          "subject": "Truemed March investor update",
+          "summary": ["Monthly update covering merchant growth and platform metrics"],
+          "metrics": {}
+        },
+        {
+          "date": "2026-02-05",
+          "from": "Justin Mares <justin@truemed.com>",
+          "subject": "Truemed February investor update",
+          "summary": ["Monthly update on HSA/FSA payment processing growth"],
+          "metrics": {}
+        },
+        {
+          "date": "2026-01-07",
+          "from": "Justin Mares <justin@truemed.com>",
+          "subject": "Truemed January investor update",
+          "summary": ["Monthly update on platform performance"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-12-04",
+          "from": "Justin Mares <justin@truemed.com>",
+          "subject": "Truemed December investor update",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-11-04",
+          "from": "Justin Mares <justin@truemed.com>",
+          "subject": "Truemed November investor update",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-10-02",
+          "from": "Justin Mares <justin@truemed.com>",
+          "subject": "Truemed October investor update",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-09-04",
+          "from": "Justin Mares <justin@truemed.com>",
+          "subject": "Truemed September investor update",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-08-05",
+          "from": "Justin Mares <justin@truemed.com>",
+          "subject": "Truemed August investor update",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Blox Snacks": {
+      "sector": "CPG / Snacks",
+      "updates": [
+        {
+          "date": "2026-04-07",
+          "from": "Jon Lesser <jon@bloxsnacks.com>",
+          "subject": "Blox Snacks Investor Update: Q4/FY'25",
+          "summary": [
+            "FY'25 Net Sales: $10M (flat YoY), Q4'25: $2.4M",
+            "Net loss of -$2.4M driven by tariff expenses and manufacturer deposit write-off",
+            "Now operational at North American manufacturer, cash balance $1.2M+ in Q1'26",
+            "FruitBlox TDPs expected to grow +9% to 22.5K; Target +125%",
+            "Launching NEW brand 'Snackmode' — first protein fruit snack in category",
+            "Snackmode: 6g protein, good source of fiber, 40% less sugar",
+            "Walmart cutting in Snackmode off-cycle in September (1,000 stores)",
+            "Exiting JuiceBlox business entirely"
+          ],
+          "metrics": {
+            "FY'25 Net Sales": "$10M (flat YoY)",
+            "Q4'25 Net Sales": "$2.4M",
+            "FY'25 Net Loss": "-$2.4M",
+            "Cash Balance": "$1.2M+",
+            "Credit Facility": "$1.5M (untapped)"
+          }
+        },
+        {
+          "date": "2025-11-17",
+          "from": "Jon Lesser <jon@bloxsnacks.com>",
+          "subject": "Blox Snacks Investor Update: Q3 '25",
+          "summary": ["Q3 quarterly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-08-12",
+          "from": "Jon Lesser <jon@bloxsnacks.com>",
+          "subject": "Blox Snacks Investor Update: Q2 '25",
+          "summary": ["Q2 quarterly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "immi": {
+      "sector": "CPG / Food",
+      "updates": [
+        {
+          "date": "2026-04-01",
+          "from": "Kevin Lee <klee@immieats.com>",
+          "subject": "immi Investor Update - March 2026",
+          "summary": [
+            "Monthly revenue: $1.1M (-10.7%) after cutting paid spend 50%",
+            "Meta CPA rose ~50% over past year, making acquisition unsustainable",
+            "Albertsons/Safeway re-accepted 2 packets for nationwide launch across 11 divisions",
+            "HyVee: new retailer accepted 3 SKUs in ~100 doors",
+            "V6.2 cups on track for mid-April production, June 2026 launch",
+            "New logistics partner projecting $250-300K in annual shipping savings",
+            "Kimchi toppings getting strong tradeshow reception"
+          ],
+          "metrics": {
+            "Monthly Revenue": "$1,108,069 (-10.7%)",
+            "Cash in Bank": "$2,830,850"
+          }
+        },
+        {
+          "date": "2026-03-01",
+          "from": "Kevin Lee <klee@immieats.com>",
+          "subject": "immi Investor Update - February 2026",
+          "summary": ["Monthly update on retail expansion and product development"],
+          "metrics": {}
+        },
+        {
+          "date": "2026-01-31",
+          "from": "Kevin Lee <klee@immieats.com>",
+          "subject": "immi Investor Update - January 2026",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-12-01",
+          "from": "Kevin Lee <klee@immieats.com>",
+          "subject": "immi Investor Update - December 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-11-03",
+          "from": "Kevin Lee <klee@immieats.com>",
+          "subject": "immi Investor Update - November 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-10-01",
+          "from": "Kevin Lee <klee@immieats.com>",
+          "subject": "immi Investor Update - October 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-09-02",
+          "from": "Kevin Lee <klee@immieats.com>",
+          "subject": "immi Investor Update - September 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Maximus": {
+      "sector": "Health & Wellness / Telehealth",
+      "updates": [
+        {
+          "date": "2026-04-02",
+          "from": "Cameron Sepah <cam@maximustribe.com>",
+          "subject": "Maximus Investor Update - March 2026",
+          "summary": [
+            "Looking to improve CRO via faster AI-enabled landing page creation",
+            "Update available via DocSend"
+          ],
+          "metrics": {}
+        },
+        {
+          "date": "2026-03-13",
+          "from": "Cameron Sepah <cam@maximustribe.com>",
+          "subject": "Maximus Investor Update - February 2026",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2026-02-03",
+          "from": "Cameron Sepah <cam@maximustribe.com>",
+          "subject": "Maximus Investor Update - January 2026",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-12-12",
+          "from": "Cameron Sepah <cam@maximustribe.com>",
+          "subject": "Maximus Investor Update - December 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-11-17",
+          "from": "Cameron Sepah <cam@maximustribe.com>",
+          "subject": "Maximus Investor Update - November 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-09-16",
+          "from": "Cameron Sepah <cam@maximustribe.com>",
+          "subject": "Maximus Investor Update - September 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-08-08",
+          "from": "Cameron Sepah <cam@maximustribe.com>",
+          "subject": "Maximus Investor Update - August 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Endorphins": {
+      "sector": "Fitness / SaaS",
+      "updates": [
+        {
+          "date": "2026-04-01",
+          "from": "Tyler Swartz <tyler@endorphinsrunning.com>",
+          "subject": "Endorphins Q1 2026 - Investor Update",
+          "summary": [
+            "Surpassed 1,000 paying subscribers",
+            "Reached $150K+ ARR",
+            "Verbally agreed to 3-year, $1.5M contract extension with New Balance"
+          ],
+          "metrics": {
+            "ARR": "$150K+",
+            "Subscribers": "1,000+",
+            "New Balance Contract": "$1.5M (3-year extension)"
+          }
+        },
+        {
+          "date": "2025-12-01",
+          "from": "Tyler Swartz <tyler@endorphinsrunning.com>",
+          "subject": "Endorphins December 2025 - Investor Update",
+          "summary": ["Quarterly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-10-01",
+          "from": "Tyler Swartz <tyler@endorphinsrunning.com>",
+          "subject": "Endorphins October 2025 - Investor Update",
+          "summary": ["Quarterly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-09-02",
+          "from": "Tyler Swartz <tyler@endorphinsrunning.com>",
+          "subject": "Endorphins September 2025 - Investor Update",
+          "summary": ["Quarterly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Trackstar": {
+      "sector": "Supply Chain / SaaS",
+      "updates": [
+        {
+          "date": "2026-03-30",
+          "from": "Jeremy Schneck <jeremy@trackstarhq.com>",
+          "subject": "Trackstar Investor Update: January & February 2026",
+          "summary": [
+            "$125K contracted MRR ($1.50M ARR) across 57 customers",
+            "Added net +$13K MRR in Jan/Feb (+$8K new, +$7K expansion, -$2K churn)",
+            "Kicking off Series A raise targeting $10M",
+            "AI agents built internally can write new integrations in under 30 minutes",
+            "Cash balance: $1.66M, ~23 months runway"
+          ],
+          "metrics": {
+            "MRR": "$125K",
+            "ARR": "$1.50M",
+            "Customers": "57",
+            "Cash Balance": "$1.66M",
+            "Runway": "~23 months",
+            "Monthly Burn": "$73K avg"
+          }
+        },
+        {
+          "date": "2026-01-06",
+          "from": "Jeremy Schneck <jeremy@trackstarhq.com>",
+          "subject": "Trackstar Investor Update: November & December 2025",
+          "summary": ["Bi-monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-10-24",
+          "from": "Jeremy Schneck <jeremy@trackstarhq.com>",
+          "subject": "Trackstar Investor Update: September & October 2025",
+          "summary": ["Bi-monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-08-19",
+          "from": "Jeremy Schneck <jeremy@trackstarhq.com>",
+          "subject": "Trackstar Investor Update: July & August 2025",
+          "summary": ["Bi-monthly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Canopy": {
+      "sector": "Home & Wellness",
+      "updates": [
+        {
+          "date": "2026-03-26",
+          "from": "Justin Seidenfeld <justin@getcanopy.co>",
+          "subject": "CANOPY | 26Q1 Investor Update",
+          "summary": [
+            "Tub Filter won TIME 2025 Invention of the Year",
+            "Nationwide Baby Wellness Endcap launch at Target",
+            "#1 humidifier brand in Baby at Target — grown to 15% of all humidifier sales in 4 months",
+            "Q4 was biggest launch quarter ever: Nursery 2.0, Product Monogramming, Air Purifier collabs",
+            "YTD impressions surpassed 1.08 billion in 2025",
+            "Exciting retail expansion plans in 2026 with multiple new channels"
+          ],
+          "metrics": {
+            "Target Market Share": "15% of humidifier sales (4 months)",
+            "2025 Impressions": "1.08B+",
+            "Awards": "TIME Invention of the Year, Good Housekeeping, NewBeauty"
+          }
+        },
+        {
+          "date": "2025-10-01",
+          "from": "Justin Seidenfeld <justin@getcanopy.co>",
+          "subject": "CANOPY | Q3 Investor Update",
+          "summary": ["Quarterly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Rosie": {
+      "sector": "AI / SaaS",
+      "updates": [
+        {
+          "date": "2026-03-24",
+          "from": "Jordan Gal <jordan@heyrosie.com>",
+          "subject": "Rosie Investor Update - March 2026",
+          "summary": [
+            "Broken through $2M ARR (MRR: $170K)",
+            "Transitioned to Livekit AI infrastructure from Bland",
+            "Launched native iOS and Android apps — 570 users in 3 weeks (32% adoption)",
+            "Website Texting launched with 108 users",
+            "Active customers: 1,741; ARPU $97/mo",
+            "Home Depot partnership launching April 15",
+            "Shopify integration going into beta"
+          ],
+          "metrics": {
+            "ARR": "$2.04M",
+            "MRR": "$170K",
+            "Active Customers": "1,741",
+            "ARPU": "$97/mo",
+            "Usage": "359K minutes/month",
+            "Team Size": "6"
+          }
+        },
+        {
+          "date": "2026-02-25",
+          "from": "Jordan Gal <jordan@heyrosie.com>",
+          "subject": "Rosie Investor Update - February 2026",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2026-01-22",
+          "from": "Jordan Gal <jordan@heyrosie.com>",
+          "subject": "Rosie Investor Update - January 2026",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-12-02",
+          "from": "Jordan Gal <jordan@heyrosie.com>",
+          "subject": "Rosie Investor Update - December 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-10-27",
+          "from": "Jordan Gal <jordan@heyrosie.com>",
+          "subject": "Rosie Investor Update - October 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Lotza": {
+      "sector": "CPG / Beverages",
+      "updates": [
+        {
+          "date": "2026-03-19",
+          "from": "Laura @ Lotza <hello@getlotza.com>",
+          "subject": "Lotza | February Investor Update",
+          "summary": [
+            "Added Head of Sales and dedicated Madison sales rep",
+            "First brand ambassador cohort of 15 hired, kickoff March 25",
+            "Optimized PDP for higher conversions, ROAS and CAC improved",
+            "Angel round at $420K committed toward $500K goal ($4M post-money cap SAFE)",
+            "Party Soda™ debut planned for May"
+          ],
+          "metrics": {
+            "Round Status": "$420K of $500K committed",
+            "Valuation": "$4M post-money cap",
+            "Ambassadors": "15 (first cohort)"
+          }
+        },
+        {
+          "date": "2026-02-17",
+          "from": "Laura @ Lotza <hello@getlotza.com>",
+          "subject": "Lotza | January Investor Update",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Adgile": {
+      "sector": "AdTech / OOH",
+      "updates": [
+        {
+          "date": "2026-03-12",
+          "from": "Max Flannery <max@adgile.co>",
+          "subject": "Adgile - 2025 Q4 & Year End Investor Update",
+          "summary": [
+            "Q4'25 revenue: $2.25M (+141% YoY), net income: $593K",
+            "FY'25 revenue: $6.57M (+64% YoY), net income: $1.03M",
+            "Gross margin improved to 54.3% in Q4 (from 49.85% YoY)",
+            "~$5M in signed contracts for 2026 (vs $2.9M at same point in 2025)",
+            "30+ new campaigns in Q4; real baseline awareness across CPG industry",
+            "Cash: $1.05M, Receivables: $1.00M"
+          ],
+          "metrics": {
+            "FY'25 Revenue": "$6.57M (+64% YoY)",
+            "FY'25 Net Income": "$1.03M",
+            "Q4'25 Revenue": "$2.25M (+141% YoY)",
+            "Q4 Gross Margin": "54.3%",
+            "2026 Signed Contracts": "~$5.0M",
+            "Cash": "$1.05M"
+          }
+        },
+        {
+          "date": "2025-11-25",
+          "from": "Max Flannery <max@adgile.co>",
+          "subject": "Adgile Q3 2025 Investor Update",
+          "summary": ["Quarterly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Flmlnk": {
+      "sector": "Entertainment / SaaS",
+      "updates": [
+        {
+          "date": "2026-03-13",
+          "from": "Flmlnk via Flmlnk <updates@flmlnk.com>",
+          "subject": "Flmlnk, Inc Investor Update — March 2026",
+          "summary": [
+            "Building intelligent marketing infrastructure for independent filmmakers",
+            "Sharpening product around clearer value proposition: centralized marketing and distribution data",
+            "Focusing on one thing extremely well rather than chasing features",
+            "Building out asset generation, distribution workflows, and analytics"
+          ],
+          "metrics": {}
+        }
+      ]
+    },
+    "Oats Overnight": {
+      "sector": "CPG / Food",
+      "updates": [
+        {
+          "date": "2026-03-07",
+          "from": "Evan Dreifuss <evan@impatient.vc>",
+          "subject": "Oats Overnight - January 2026 Investor Update",
+          "summary": [
+            "2025 net revenue: $223M (+47% YoY) with 59% gross margin",
+            "January 2026: $23.9M net revenue, 55% gross margin",
+            "First price increase in ~5 years (6-9% depending on pack size)",
+            "Launched loyalty program in December 2025",
+            "Launching 'Protein Pack' in April (10g protein add-on)",
+            "Protein Coffee reformulated, relaunching in stick pack format May/June",
+            "Hired Max Nimaroff (ex-DoorDash, AG1) as SVP of Retention"
+          ],
+          "metrics": {
+            "FY'25 Revenue": "$223M (+47% YoY)",
+            "FY'25 Gross Margin": "59%",
+            "FY'25 EBITDA": "$1.5M",
+            "Jan 2026 Revenue": "$23.9M",
+            "Jan 2026 EBITDA": "($4.3M)"
+          }
+        },
+        {
+          "date": "2025-10-14",
+          "from": "Evan Dreifuss <evan@impatient.vc>",
+          "subject": "Oats Overnight - August/October 2025 Investor Update",
+          "summary": ["Quarterly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Spritz Society": {
+      "sector": "CPG / Beverages (Alcohol)",
+      "updates": [
+        {
+          "date": "2026-02-27",
+          "from": "Ben Soffer <ben@spritzsociety.com>",
+          "subject": "Spritz Society Investor Update (February 2026)",
+          "summary": [
+            "Now in 5,000+ points of distribution across 40+ states including 1,400 Target stores",
+            "Transitioned from E&J Gallo to Precept Wine & Spirits / Southern Glazer's",
+            "Launched Skinny Spritz™ — 100 calories, no added sugar, trademarked by USPTO",
+            "Skinny Spritz nationwide Target launch April 2026",
+            "L'Oréal & Kiehl's brand partnership secured",
+            "Precept partnership aligns commercial incentives with equity"
+          ],
+          "metrics": {
+            "Distribution": "5,000+ points, 40+ states",
+            "Target Stores": "~1,400"
+          }
+        }
+      ]
+    },
+    "Levels": {
+      "sector": "Health Tech / CGM",
+      "updates": [
+        {
+          "date": "2026-02-20",
+          "from": "Josh Clemente <josh@levels.com>",
+          "subject": "⭐ Levels Investor Update - February 2026",
+          "summary": [
+            "Exploring CMS program opportunities",
+            "Seeking connections to health system executives and Value Based Care teams",
+            "Update available via Levels link (DocSend)"
+          ],
+          "metrics": {}
+        },
+        {
+          "date": "2026-01-14",
+          "from": "Josh Clemente <josh@levels.com>",
+          "subject": "⭐ Levels Investor Update - January 2026",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-11-18",
+          "from": "Josh Clemente <josh@levels.com>",
+          "subject": "⭐ Levels Investor Update - November 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-10-14",
+          "from": "Josh Clemente <josh@levels.com>",
+          "subject": "⭐ Levels Investor Update - October 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-09-08",
+          "from": "Josh Clemente <josh@levels.com>",
+          "subject": "⭐ Levels Investor Update - September 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-12-15",
+          "from": "Josh Clemente <josh@levels.com>",
+          "subject": "⭐ Levels Investor Update - December 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Jambys": {
+      "sector": "DTC / Apparel",
+      "updates": [
+        {
+          "date": "2026-02-20",
+          "from": "Jack Ambrose <jack@jambys.com>",
+          "subject": "Jambys 2025 Investor Update",
+          "summary": [
+            "2025 revenue: $1.85M (down from $2.87M in 2024)",
+            "NOI: -$570K (improved from -$918K in 2024)",
+            "Tariffs and Section 321 elimination hit hard — went from 0% to 145% tariffs",
+            "Andrew transitioning from Co-CEO to Chairman; Jack as sole CEO",
+            "GQ Best Stuff Box partnership: 28,000 hoodies at-cost",
+            "Paid down $183K of Subchapter V obligations; $1.08M remaining over 3.5 years",
+            "2026 goal: breakeven and fix supply side before returning to growth"
+          ],
+          "metrics": {
+            "2025 Revenue": "$1.85M",
+            "2025 NOI": "-$570K",
+            "Debt Remaining": "$1.08M"
+          }
+        }
+      ]
+    },
+    "Halfdays": {
+      "sector": "DTC / Outdoor Apparel",
+      "updates": [
+        {
+          "date": "2026-02-06",
+          "from": "Ariana Ferwerda <ariana@halfdays.com>",
+          "subject": "Halfdays Investor Update — Fiscal Q3 Update",
+          "summary": [
+            "Fiscal Q3 (Oct-Dec): $12.1M net revenue (+75% YoY) — largest quarter ever",
+            "DTC: $7.1M net (+65% YoY) with $9.7 ROAS (vs $8.3 target) and $69 CAC (vs $85 target)",
+            "Wholesale: >80% YoY growth (REI, Revolve, Shopbop, Sports Basement)",
+            "HOKA collab: >50% sold in 24 hours, 20+ press features",
+            "BFCM: $4.4M net sales (+60% YoY), both Black Friday and Cyber Monday broke $1M records",
+            "Brand turned 5 years old in November"
+          ],
+          "metrics": {
+            "Q3 Net Revenue": "$12.1M (+75% YoY)",
+            "Q3 Gross Revenue": "$15.7M (+56% YoY)",
+            "DTC Revenue": "$7.1M (+65% YoY)",
+            "BFCM Net Sales": "$4.4M (+60% YoY)",
+            "ROAS": "$9.7 (target: $8.3)",
+            "CAC": "$69 (target: $85)"
+          }
+        },
+        {
+          "date": "2025-10-14",
+          "from": "Ariana Ferwerda <ariana@halfdays.com>",
+          "subject": "Halfdays Investor Update — October 2025",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Sanzo": {
+      "sector": "CPG / Beverages",
+      "updates": [
+        {
+          "date": "2026-02-05",
+          "from": "Sandro Roco <sandro@drinksanzo.com>",
+          "subject": "Sanzo | 4Q25 Investor Update + 2026 Outlook",
+          "summary": [
+            "Walmart expansion from 130 stores to 1,200-1,300 (April 2026)",
+            "Costco LA region test achieved sales benchmarks",
+            "Sam's Club limited West Coast test planned for Summer 2026",
+            "Paradise Punch launched Feb 1 at all Whole Foods — became #1 best-seller in 4 days",
+            "Sprouts converting from single-serve to 6-pack (forecasted 200% sales increase)",
+            "2026 forecast: +40% YoY revenue growth with profitability",
+            "Whole Foods velocity recovering after pullback period"
+          ],
+          "metrics": {
+            "Walmart Stores": "130 → 1,200-1,300",
+            "2026 Growth Forecast": "+40% YoY"
+          }
+        },
+        {
+          "date": "2025-11-17",
+          "from": "Sandro Roco <sandro@drinksanzo.com>",
+          "subject": "Sanzo | 3Q25 Investor Update",
+          "summary": ["Quarterly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "EIGHT": {
+      "sector": "DTC / Apparel",
+      "updates": [
+        {
+          "date": "2026-02-04",
+          "from": "EIGHT <unknown>",
+          "subject": "EIGHT Investor Update - February 2026",
+          "summary": ["Brand update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Checkit AI": {
+      "sector": "AI / SaaS",
+      "updates": [
+        {
+          "date": "2026-03-01",
+          "from": "Checkit AI",
+          "subject": "Checkit AI Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "#paid": {
+      "sector": "Influencer Marketing / SaaS",
+      "updates": [
+        {
+          "date": "2026-02-16",
+          "from": "#paid",
+          "subject": "#paid Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-10-23",
+          "from": "#paid",
+          "subject": "#paid Q2 Investor Update",
+          "summary": ["Quarterly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Flaus": {
+      "sector": "DTC / Oral Care",
+      "updates": [
+        {
+          "date": "2026-02-16",
+          "from": "Flaus",
+          "subject": "Flaus Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Create Wellness": {
+      "sector": "Health & Wellness",
+      "updates": [
+        {
+          "date": "2026-01-28",
+          "from": "Create Wellness",
+          "subject": "Create Wellness Q4 Investor Update",
+          "summary": ["Quarterly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-10-27",
+          "from": "Create Wellness",
+          "subject": "Create Wellness Q3 Investor Update",
+          "summary": ["Quarterly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Brij": {
+      "sector": "Retail Tech / SaaS",
+      "updates": [
+        {
+          "date": "2026-01-23",
+          "from": "Kait Stephens <kait@brij.it>",
+          "subject": "Brij Q4 Update: Q4'25 Investor Update",
+          "summary": [
+            "Record quarter: $351.6K in new ARR (+69% QoQ)",
+            "ACV up 3.2x from Q1 to Q4",
+            "Lowe's enterprise pilot signed 12/31 and live Jan 12 ($40K/3-month pilot, path to $250K+ ARR)",
+            "Built real GTM engine with multi-AE, SDR, and partners",
+            "22% close rate; top of funnel is the constraint",
+            "Paul Piazza joined as Head of CS on Jan 5"
+          ],
+          "metrics": {
+            "ARR": "$1.89M (incl. pilots)",
+            "Cash": "$5.9M",
+            "Runway": "17 months (>24 with debt)",
+            "Q4 New ARR": "$351.6K (+69% QoQ)",
+            "Close Rate": "22%"
+          }
+        }
+      ]
+    },
+    "Portless": {
+      "sector": "Logistics / SaaS",
+      "updates": [
+        {
+          "date": "2026-01-14",
+          "from": "Portless",
+          "subject": "Portless Q4 Investor Update",
+          "summary": ["Quarterly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-11-03",
+          "from": "Portless",
+          "subject": "Portless Q3 Investor Update",
+          "summary": ["Quarterly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Caraway": {
+      "sector": "DTC / Home & Kitchen",
+      "updates": [
+        {
+          "date": "2026-01-16",
+          "from": "Jordan Nathan <jordan@carawayhome.com>",
+          "subject": "FY & Q4 2025 Investor Update",
+          "summary": [
+            "2025 was most ambitious year — tariffs threw curveballs but emerged stronger",
+            "Comprehensive year review covering business performance, marketing, product, ops, team",
+            "Foundation building toward mission of creating first generation of non-toxic homes",
+            "Full update attached as PDF"
+          ],
+          "metrics": {}
+        }
+      ]
+    },
+    "Bezel": {
+      "sector": "Luxury / Marketplace",
+      "updates": [
+        {
+          "date": "2026-01-15",
+          "from": "Evan Dreifuss <evan@impatient.vc>",
+          "subject": "Bezel Investor Update #12",
+          "summary": [
+            "Q4'25 GMV: $27.4M (+120% YoY)",
+            "Q4'25 Revenue: $2.0M (+156% YoY)",
+            "December annualized run rate: $116M GMV, $9.5M revenue",
+            "Q4 authenticated watches: 2,270 (+92% YoY)",
+            "$856M in live inventory on platform",
+            "Launched Bezel Insurance — $1M+ watches insured within first 30 days",
+            "Partnerships with American Express and Kalshi",
+            "2026 starting with lowest CACs ever"
+          ],
+          "metrics": {
+            "Q4 GMV": "$27.4M (+120% YoY)",
+            "Q4 Revenue": "$2.0M (+156% YoY)",
+            "Dec Annualized GMV": "$116M",
+            "Dec Annualized Revenue": "$9.5M",
+            "MAU": "446K (+80% YoY)",
+            "Live Inventory": "$856M"
+          }
+        }
+      ]
+    },
+    "BiteSight": {
+      "sector": "AI / Analytics",
+      "updates": [
+        {
+          "date": "2026-01-09",
+          "from": "BiteSight",
+          "subject": "BiteSight Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-09-22",
+          "from": "BiteSight",
+          "subject": "BiteSight August/September Investor Update",
+          "summary": ["Bi-monthly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Arber": {
+      "sector": "CPG / Garden & Lawn",
+      "updates": [
+        {
+          "date": "2026-01-05",
+          "from": "Arber",
+          "subject": "Arber Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Nostra": {
+      "sector": "E-commerce / Performance",
+      "updates": [
+        {
+          "date": "2026-01-02",
+          "from": "Arthur Root <arthur@nostra.ai>",
+          "subject": "Nostra Q4 Investor Update",
+          "summary": [
+            "Closed largest contract ever ($235K), validating upper mid-market value",
+            "ARR from annual contracts grew 109% ($1.1M → $2.3M) in 2025",
+            "~40% win rate for Q3 opportunities",
+            "Patent progress: will receive patent on original AI personalization system",
+            "Burn down >50% from peak; infrastructure costs up only 7% during BFCM despite 50% traffic increase",
+            "Targeting growth from $3.4M to $5.1M ARR in 2026",
+            "Culture feels strong, focused, and fun again — only one employee transition since Q2"
+          ],
+          "metrics": {
+            "2025 Annual Contract ARR": "$2.3M (+109%)",
+            "Largest Contract": "$235K",
+            "Target 2026 ARR": "$5.1M",
+            "Team": "20 FTEs"
+          }
+        },
+        {
+          "date": "2025-10-07",
+          "from": "Arthur Root <arthur@nostra.ai>",
+          "subject": "Nostra Q3 Investor Update",
+          "summary": ["Quarterly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Ticket Fairy": {
+      "sector": "Events / SaaS",
+      "updates": [
+        {
+          "date": "2025-12-27",
+          "from": "Ticket Fairy",
+          "subject": "Ticket Fairy Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "LookUp": {
+      "sector": "Consumer App",
+      "updates": [
+        {
+          "date": "2025-12-17",
+          "from": "LookUp",
+          "subject": "LookUp Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "4AM SKIN": {
+      "sector": "DTC / Beauty",
+      "updates": [
+        {
+          "date": "2025-11-17",
+          "from": "4AM SKIN",
+          "subject": "4AM SKIN November Investor Update",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-10-24",
+          "from": "4AM SKIN",
+          "subject": "4AM SKIN October Investor Update",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-09-15",
+          "from": "4AM SKIN",
+          "subject": "4AM SKIN September Investor Update",
+          "summary": ["Monthly update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Kolkata Chai Co": {
+      "sector": "CPG / Beverages",
+      "updates": [
+        {
+          "date": "2025-11-06",
+          "from": "Kolkata Chai Co",
+          "subject": "Kolkata Chai Co Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Autio": {
+      "sector": "Travel Tech / Consumer App",
+      "updates": [
+        {
+          "date": "2025-11-18",
+          "from": "Autio",
+          "subject": "Autio Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "good light": {
+      "sector": "DTC / Beauty",
+      "updates": [
+        {
+          "date": "2025-11-13",
+          "from": "good light",
+          "subject": "good light Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "RASA": {
+      "sector": "CPG / Beverages",
+      "updates": [
+        {
+          "date": "2025-11-12",
+          "from": "RASA",
+          "subject": "RASA Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Tildei": {
+      "sector": "Tech",
+      "updates": [
+        {
+          "date": "2025-10-30",
+          "from": "Tildei",
+          "subject": "Tildei Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "PYM": {
+      "sector": "Health & Wellness / Supplements",
+      "updates": [
+        {
+          "date": "2025-10-13",
+          "from": "PYM",
+          "subject": "PYM Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Snif": {
+      "sector": "DTC / Fragrance",
+      "updates": [
+        {
+          "date": "2025-10-14",
+          "from": "Snif",
+          "subject": "Snif Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Graymatter": {
+      "sector": "AI / Analytics",
+      "updates": [
+        {
+          "date": "2025-08-26",
+          "from": "Graymatter",
+          "subject": "Graymatter Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Moku": {
+      "sector": "CPG / Plant-Based",
+      "updates": [
+        {
+          "date": "2025-08-12",
+          "from": "Moku",
+          "subject": "Moku Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Pepper": {
+      "sector": "DTC / Apparel",
+      "updates": [
+        {
+          "date": "2025-08-12",
+          "from": "Pepper",
+          "subject": "Pepper Investor Update",
+          "summary": ["Company update"],
+          "metrics": {}
+        }
+      ]
+    },
+    "Platter": {
+      "sector": "E-commerce / Agency-SaaS",
+      "updates": [
+        {
+          "date": "2026-04-06",
+          "from": "Troy Osinoff (fwd from Ben Sharf)",
+          "subject": "Platter Investor Update [Q1 2026]",
+          "summary": [
+            "Q1 2026 revenue: $781K (+26% YoY)",
+            "MRR: $134K, profitable at $19K+ March burn",
+            "$120K cash in bank, headcount 26",
+            "March was largest implementation month by revenue in company history",
+            "Received inbound acquisition interest from two strategic buyers",
+            "Building 'PlatterOS' — internal AI operating system",
+            "Going through small organizational restructuring",
+            "Troy's commentary: raised at SaaS valuation, pivoted to agency, unlikely to exit above valuation"
+          ],
+          "metrics": {
+            "Q1 Revenue": "$781K (+26% YoY)",
+            "MRR": "$134K",
+            "Cash": "$120K",
+            "Monthly Burn": "$19K+ (Profitable)",
+            "Headcount": "26",
+            "Runway": "Profitable"
+          }
+        }
+      ]
+    },
+    "MAGIC Fund": {
+      "sector": "Venture Capital / Fund",
+      "updates": [
+        {
+          "date": "2026-02-08",
+          "from": "Adegoke Olubusi <reveal@magic.fund>",
+          "subject": "MAGIC Fund UPDATE (Q4 - 25)",
+          "summary": [
+            "Q4 marked close of transition period — venture activity showing early renewed momentum",
+            "Focus on disciplined execution and active engagement with founders",
+            "Emphasis on sustainable growth, operating fundamentals, and resilience",
+            "Supporting innovators at frontiers of technology"
+          ],
+          "metrics": {}
+        },
+        {
+          "date": "2025-10-26",
+          "from": "Adegoke Olubusi <reveal@magic.fund>",
+          "subject": "MAGIC Fund UPDATE (Q3 - 25)",
+          "summary": ["Quarterly LP update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-07-27",
+          "from": "Adegoke Olubusi <reveal@magic.fund>",
+          "subject": "MAGIC Fund 1 UPDATE (Q2 - 25)",
+          "summary": ["Quarterly LP update"],
+          "metrics": {}
+        },
+        {
+          "date": "2025-05-04",
+          "from": "Adegoke Olubusi <reveal@magic.fund>",
+          "subject": "MAGIC Fund 1 UPDATE (Q1 - 25)",
+          "summary": ["Quarterly LP update"],
+          "metrics": {}
+        }
+      ]
+    }
+  }
+}
